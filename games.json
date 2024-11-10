@@ -1,0 +1,50 @@
+{
+    "gamesList": [
+    {
+      "title": "PUBG GLOBAL",
+      "package": "com.tencent.ig",
+      "version": "3.4.0",
+      "deskripsi": "Game. PUBG KOREA is a player versus player shooter game in which up to a hundred players fight in a battle royale, a type of large-scale last-man-standing death match in which players fight to remain the last one alive. Players can choose to enter matches solo, duo, or with a small team of up to four people.",
+       "drm": "https://reipro.blacksharkvip.com/drm/libserver.so",
+       "drm_verion": "1.0",
+      "status": "Safe"
+    },
+    {
+      "title": "PUBG KOREA",
+      "package": "com.pubg.krmobile",
+      "version": "3.4.0",
+      "deskripsi": "Game. PUBG KOREA is a player versus player shooter game in which up to a hundred players fight in a battle royale, a type of large-scale last-man-standing death match in which players fight to remain the last one alive. Players can choose to enter matches solo, duo, or with a small team of up to four people.",
+       "drm": "https://reipro.blacksharkvip.com/drm/libserver.so",
+       "drm_verion": "1.0",
+      "status": "Safe"
+      
+    },
+      {
+        "title": "PUBG VIETNAM",
+        "package": "com.vng.pubgmobile",
+        "version": "3.4.0",
+         "deskripsi": "Game. PUBG KOREA is a player versus player shooter game in which up to a hundred players fight in a battle royale, a type of large-scale last-man-standing death match in which players fight to remain the last one alive. Players can choose to enter matches solo, duo, or with a small team of up to four people.",
+       "drm": "https://reipro.blacksharkvip.com/drm/libserver.so",
+       "drm_verion": "1.0",
+      "status": "Safe"
+      },
+    {
+      "title": "PUBG TAIWAN",
+      "package": "com.rekoo.pubgm",
+      "version": "3.4.0",
+       "deskripsi": "Game. PUBG KOREA is a player versus player shooter game in which up to a hundred players fight in a battle royale, a type of large-scale last-man-standing death match in which players fight to remain the last one alive. Players can choose to enter matches solo, duo, or with a small team of up to four people.",
+       "drm": "https://reipro.blacksharkvip.com/drm/libserver.so",
+       "drm_verion": "1.0",
+      "status": "Safe"
+    },
+      {
+        "title": "PUBG INDIA",
+        "package": "com.pubg.imobile",
+        "version": "3.4.01",
+        "deskripsi": "Game. PUBG KOREA is a player versus player shooter game in which up to a hundred players fight in a battle royale, a type of large-scale last-man-standing death match in which players fight to remain the last one alive. Players can choose to enter matches solo, duo, or with a small team of up to four people.",
+       "drm": "https://reipro.blacksharkvip.com/drm/libserver.so",
+       "drm_verion": "1.0",
+      "status": "Safe"
+      }
+  ]
+}
